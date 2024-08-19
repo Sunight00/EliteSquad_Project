@@ -1,0 +1,261 @@
+/*https://preview.colorlib.com/#hvacompany*/
+ /*socaial media*/
+.social {
+    padding-left: 17%;
+    padding-right: 19%;
+}
+
+
+
+/*menu*/
+.menu1 a{
+    text-decoration: none;
+    padding-left: 18%;
+    padding-right: 18%;
+
+}
+.menu1{
+    padding-left: 5%;
+    padding-right: 5%;
+    
+}
+.ml:hover{
+    color: blue;
+}
+
+
+.menu2 a{
+    text-decoration: none;
+    padding-left: 18%;
+    padding-right: 18%;
+
+}
+.menu2{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+
+.ml{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    font-size: larger;
+}
+
+
+
+
+
+
+.box{
+    padding-top: 13%;
+    padding-bottom: 13%;
+    padding-left: 8%;
+    padding-right: 8%;
+    text-align: center;
+    background-color: white; 
+    border-style: solid; 
+    border-color: rgba(209, 209, 209, 0.911); 
+    border-width: 1px;
+}
+/*tb= text in box*/
+.tb {
+    padding-top:11%;
+}
+
+
+
+/*Our Services Slide*/
+.services{
+    text-align: center;
+    padding-bottom:10%;
+}
+
+
+
+/*sp=services picture*/
+.sp{
+    width: 100%;
+}
+
+/*sh=services header*/
+.sh {
+    padding-top:20%;
+    padding-bottom:3%;
+}
+
+
+/* st= services text*/
+.st {
+    padding-left: 10%;
+    padding-right: 10%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/*sl=services link*/
+.sl{
+    color: black;
+}
+
+
+/*fi= figure image*/
+.fi{
+    padding-top:35%;
+    padding-bottom:5%;
+    width: 22%;
+}
+
+/*fh=figure header*/
+.fh{
+    color: white;
+    font-size:320%;
+}
+
+/*fd=figure description*/
+.fd{
+    color: rgba(71, 71, 238, 0.836);
+    font-size: 150%;
+    padding-bottom: 25%;
+}
+
+
+/*Welcome pic*/
+.con {
+    height: 350px;
+    display: flex;
+    align-items: flex-end;
+  }
+  
+.pic{
+    margin-left: 5%;
+    margin-top: -7%;
+}
+  
+
+/*Get quote*/
+::placeholder {
+    color:white;
+    opacity: 1; /* Firefox */
+  }
+  
+  ::-ms-input-placeholder { /* Edge 12 -18 */
+    color:white;
+  }
+
+/*Testimonal*/
+/*ctb=colon top border*/
+.ctb{
+    padding-bottom: 10%;
+}
+
+/*teb= testimonal box*/
+.teb{
+  border-style:solid;
+  border-color: rgba(209, 209, 209, 0.911); 
+  border-width: 1px;
+  padding-top: 10%;
+  padding-left: 3%;
+  padding-right:3%;
+  padding-bottom: 10%;
+  margin-bottom:15%;
+  border-top-width:thick;
+}
+
+
+/*tn=testimonal name*/
+.tc{
+    color:rgb(0, 136, 204);
+    font-style:italic;
+}
+
+
+
+
+.teb:hover{
+    border-top-color:gold ;
+}
+
+/*INTALLATION NOW*/
+/* il=installation link*/
+.il{ 
+    font-weight: bold;
+    text-decoration: none;
+    background-color: gold;
+    color: black;
+    padding: 12px 25px;   
+}
+.il:hover{
+    color: white;
+}
+
+/*product*/
+/*pim=product image*/
+.pim{
+    width: 100%;
+}
+
+/*pb=product box*/
+.pb{
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(128, 128, 128, 0.199);
+    margin-bottom: 5%;
+}
+
+/*pl= product link*/
+.pl{
+    text-decoration:none;
+    color: black;
+}
+
+.pl:hover{
+    text-decoration:underline;
+}
+
+/*til=tips link*/
+.til{
+    text-decoration: none;
+    color:black;
+    font-size:larger;
+    font-weight:500;
+}
+.til:hover{
+    text-decoration: underline;
+}
+/*tia=tips author*/
+.tia{
+    padding-top: 1%;
+    font-weight: 90;
+}
+
+/*tib=tips box*/
+.tib{
+    padding-left:6%;
+    padding-right: 6%;
+}
+
+
+/*co=follow us social media icon*/
+.co{
+    padding-left: 6%;
+    font-size: larger;
+    color: white;
+}
+
+/*ql=quick links*/
+.ql{
+    text-decoration: none;
+    color:gray;
+}
+
+/*for placeholder colo*/
+.Emailsub ::placeholder{
+    color: red;
+}
+
+
+/*newslink*/
+.newslink{
+    text-decoration: none;
+    color: rgb(184, 184, 184);
+}
